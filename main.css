@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>File for Git</title>
-</head>
-<body>
+* {
+	box-sizing: border-box;
+}
 
-</body>
-</html>
+html {
+	font-size: 62.5%;
+	font-family: Roboto,Helvetica,sans-serif;
+}
+
