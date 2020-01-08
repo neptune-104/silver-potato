@@ -1,8 +1,7 @@
 readme.txt
 
-lorem ipsum.
+Silver potato is not silver, nor is it a potato. It is a gourd with an oil-rubbed bronze finish.
 
-RULES TO LIVE BY:
-
-1. nothing good happens after 2am.
-2. nothing good happens before 2am.
+That is all.
+Enjoy!
+NEP
